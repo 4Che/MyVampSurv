@@ -10,7 +10,7 @@ public class ObjectDispose : MonoBehaviour
 
     private void Start()
     {
-        playerTransform = GameManager.instance.PlayerTransform;
+        playerTransform = GameManager.instance.playerTransform;
     }
 
     private void Update()

@@ -12,5 +12,5 @@ public class GameManager : MonoBehaviour
         instance = this;
     }
 
-    public Transform PlayerTransform;
+    public Transform playerTransform;
 }

@@ -60,6 +60,7 @@ public class Enemy : MonoBehaviour, IDamageable
       if (hp < 1)
       {
          targetGameObject.GetComponent<Level>().AddExperience(experience_reward);
+         GetComponent<DropOnDestroy>().CheckDrop();
          Destroy(gameObject);
       }
    }
