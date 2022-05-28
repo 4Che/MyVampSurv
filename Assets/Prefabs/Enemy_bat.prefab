@@ -194,7 +194,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e4b3d3d398dec742a66684adb6e3c97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
+  speed: 5
   hp: 20
   damage: 10
   experience_reward: 400

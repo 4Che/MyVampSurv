@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 4342998626892574072}
   - component: {fileID: -2168928996300122886}
   m_Layer: 0
-  m_Name: Barrel_0
+  m_Name: Barrel_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -157,8 +157,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: efc23653f62724f4b9308fdde8d503ee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dropItemPrefab: {fileID: 839765148154788353, guid: e40df45b6d4d13545a8e96aef7bb7dd0, type: 3}
-  chance: 0.365
+  dropItemPrefab: {fileID: 8594005783316353144, guid: bf12bf2caceec0340b66908b0230abf1, type: 3}
+  chance: 0.349
 --- !u!114 &-2168928996300122886
 MonoBehaviour:
   m_ObjectHideFlags: 0
